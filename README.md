@@ -1,10 +1,14 @@
-# 7j6/oxy
-  <p align="center">
+
+  <h1 align="center">7j6/oxy</h1>
   <a href="https://github.com/7j6">
     <img src="https://discord.c99.nl/widget/theme-3/911317673802104832.png"/>
      </a>
 
 ---
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+</p>
+
 
 # Stats
 <p align="center">
