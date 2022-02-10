@@ -1,16 +1,21 @@
-### Hi there 👋
+# 7j6/oxy
+  <p align="center">
+  <a href="https://github.com/7j6">
+    <img src="https://discord.c99.nl/widget/theme-3/911317673802104832.png"/>
+     </a>
 
-<!--
-**7j6/7j6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=7j6&layout=compact&theme=dark) 
+</br>
+![stats](https://github-readme-stats.vercel.app/api?username=7j6&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+oxy.#0999 - Discord
+
+# oxy.#0999
+<p align="center">
+  <a href="https://github.com/7j6">
+    <img src="https://c.tenor.com/gixQdYlCeCwAAAAC/juice-wrld.gif"/>
+     </a>
+</p>
