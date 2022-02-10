@@ -1,6 +1,7 @@
 
   <h1 align="center">7j6/oxy</h1>
   <a href="https://github.com/7j6">
+  <p align="center">
     <img src="https://discord.c99.nl/widget/theme-3/911317673802104832.png"/>
      </a>
 
