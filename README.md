@@ -9,10 +9,10 @@
 
 <h2 align="center">Languages:</h4>
 <p align="center">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 </p>
 
 ---
